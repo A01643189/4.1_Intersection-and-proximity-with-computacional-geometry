@@ -1,3 +1,6 @@
+//Diego Enrique Vargas Ramírez - A01635782
+//Francisco Javier Romo Juárez - A01643189
+
 #include <iostream>
 #include <vector>
 
